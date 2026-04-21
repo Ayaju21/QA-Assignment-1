@@ -1,1 +1,1 @@
-# QA-Assignment-1
+# Quality Assurance-Assignment-1
